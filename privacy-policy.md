@@ -143,6 +143,10 @@ Our privacy policy is pretty simple - we are strongly committed to respecting yo
   We use [Optimizely](https://www.optimizely.com) to track changes we make to our website to continuously improve it and make it a better experience for all households on Splittable. Information about the cookies Optimizely sets on our behalf can be found in their support article [here](https://help.optimizely.com/hc/en-us/articles/200040335-How-Optimizely-Works-Snippet-order-of-operations-JavaScript-evaluation-timing-and-cookies).
   These cookies will not be set if you opt out of analytics tracking using Cookie Consent.
 
+  #### Referral cookies
+
+  We set 4 cookies (referral_campaign, referral_channel, referral_tags, referral_url) to track how you discovered Splittable and which link of ours you clicked on to discover us. These cookies will not be set if you opt out using Cookie Consent.
+
 1. Do we disclose any information to outside parties?
 
   - We do not sell, trade, or disclose personal identification information to others without your explicit permission, or as required under any applicable law. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
@@ -163,4 +167,4 @@ Our privacy policy is pretty simple - we are strongly committed to respecting yo
 
   - If we make any changes to this privacy policy, we will post those changes on this page and update the modification date below
   - You can also view a history of changes to this document [on GitHub](https://github.com/locatable/splittable-docs)
-  - This privacy policy was last updated on: April 22nd, 2015.
+  - This privacy policy was last updated on: July 31st, 2015.
