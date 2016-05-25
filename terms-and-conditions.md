@@ -38,7 +38,7 @@ Setting up a new House is easy. You will be asked to enter the House name or add
 - providing your email address together with your first and last name; or
 - using your Facebook account.
 
-Once your House is set up, you can invite people you live with you to join either from your contacts list or by entering their details manually.
+Once your House is set up, you can invite people you live with you to join either from your contact list or by entering their details manually.
 
 #### Joining an existing House
 
@@ -80,7 +80,7 @@ We reserve the right, in our discretion, to carry out checks (including checks w
 
 You should be aware that online payment transactions are subject to validation checks by your card issuer and we are not responsible if your card issuer declines to authorise payment for any reason. Please note it is possible that your card issuer may charge you an online handling fee or processing fee. We are not responsible for this.
 
-Payments made on the App are made through our payment gateway provider, MangoPay. You will be providing credit or debit card and bank account information directly to MangoPay which operates a secure server to process payment details, encrypting your credit/debit card information and authorising payment. Information which you supply to MangoPay is not within our control and is subject to MangoPay's own privacy policy and terms and conditions available on via this link https://www.mangopay.com/terms/end-user-terms-and-conditions/Mangopay_Terms-EN.pdf. By registering to make payment directly to other House members using the App you confirm that you accept and agree to be bound by MangoPay's terms and acknowledge that they constitute a legally binding contract between MangoPay any you.
+Payments made on the App are made through our payment gateway provider, MangoPay. You will be providing credit or debit card and bank account information directly to MangoPay which operates a secure server to process payment details, encrypting your credit/debit card information and authorising payment. Information which you supply to MangoPay is not within our control and is subject to MangoPay's own privacy policy and terms and conditions available on via this link https://www.mangopay.com/terms/end-user-terms-and-conditions/Mangopay_Terms-EN.pdf. By registering to make payment directly to other House members using the App you confirm that you accept and agree to be bound by MangoPay's terms and acknowledge that they constitute a legally binding contract between MangoPay and you.
 
 ### Access to the App
 
@@ -219,18 +219,18 @@ If the App that you download, access and/or use runs on Apple’s iOS operating 
 
 - you acknowledge and agree that:
 
-o Apple has no obligation at all to provide any support or maintenance services in relation to the App. If you have any maintenance or support questions in relation to the App, please contact us, not Apple, using the Contacting us details in these terms;
+  - Apple has no obligation at all to provide any support or maintenance services in relation to the App. If you have any maintenance or support questions in relation to the App, please contact us, not Apple, using the Contacting us details in these terms;
 
-o except as otherwise expressly set out in these terms, any claims relating to the possession or use of the App are between you and us (and not between you, or anyone else, and Apple);
+  - except as otherwise expressly set out in these terms, any claims relating to the possession or use of the App are between you and us (and not between you, or anyone else, and Apple);
 
-o in the event of any claim by a third party that your possession or use (in accordance with these terms) of the App infringes any intellectual property rights, Apple will not be responsible or liable to you in relation to that claim; and
+  - in the event of any claim by a third party that your possession or use (in accordance with these terms) of the App infringes any intellectual property rights, Apple will not be responsible or liable to you in relation to that claim; and
 
-o although these terms are entered into between you and us (and not Apple), Apple, as a third party beneficiary under these terms, will have the right to enforce these terms against you;
+  - although these terms are entered into between you and us (and not Apple), Apple, as a third party beneficiary under these terms, will have the right to enforce these terms against you;
 
 - you represent and warrant that:
 
-o you are not, and will not be, located in any country that is the subject of a United States Government embargo or that has been designated by the United States Government as a "terrorist supporting" country; and
+  - you are not, and will not be, located in any country that is the subject of a United States Government embargo or that has been designated by the United States Government as a "terrorist supporting" country; and
 
-o you are not listed on any United States Government list of prohibited or restricted parties; and
+  - you are not listed on any United States Government list of prohibited or restricted parties; and
 
 - if the App does not conform to any warranty applying to it, you may notify Apple, which will then refund the purchase price of the App (if any) to you. Subject to that, and to the maximum extent permitted by law, Apple does not give or enter into any warranty, condition or other term in relation to the App and will not be liable to you for any claims, losses, costs or expenses of whatever nature in relation to the App or as a result of you or anyone else using the App or relying on any of its content.
