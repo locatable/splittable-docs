@@ -1,34 +1,36 @@
 # Terms and Conditions
 
-This End User Licence Agreement (EULA) sets out the terms of licence and use that apply to the app for use on mobile devices (such as mobile phones, tablets and other devices), including any updates to the app, that we make available for download from any third party application store and our web-based application that we make available on our website www.splittable.co/ (the App or Splittable).
+This End User Licence Agreement (EULA) sets out the terms of licence and use that apply to the app for use on mobile devices (such as mobile phones, tablets and other devices), including any updates to the app, that we make available for download from any third party application store and our web-based application that we make available on our website www.splittable.co (the App or Splittable).
 
 These terms and conditions also apply to any of the services accessible through the App, unless separate or additional terms apply, in which case they will be displayed on-screen or accessible via a link.
 
-The App are provided by Locatable Limited (we, us and our). We are a limited company, registered in England. Our registered company number is 08616210, and our registered office is at Stapleton House, Block A, 2nd Floor, 110 Clifton Street, London, EC2A 4HT. Our VAT registration number is 232 3946 15
+The App are provided by Locatable Limited (we, us and our). We are a limited company, registered in England. Our registered company number is `08616210`, and our registered office is at Stapleton House, Block A, 2nd Floor, 110 Clifton Street, London, EC2A 4HT. Our VAT registration number is `232 3946 15`.
 
-BY DOWNLOADING, ACCESSING AND/OR USING THE APP, YOU CONFIRM THAT YOU ACCEPT AND AGREE TO BE BOUND BY THESE TERMS AND ACKNOWLEDGE THAT THEY CONSTITUTE A LEGALLY BINDING CONTRACT BETWEEN US AND YOU. IF YOU DO NOT AGREE TO ALL OF THESE TERMS, YOU ARE NOT PERMITTED TO ACCESS OR USE THE APP, AND YOU SHOULD NOT CLICK TO ACCEPT THESE TERMS AND YOU SHOULD NOT PROCEED FURTHER.
+**BY DOWNLOADING, ACCESSING AND/OR USING THE APP, YOU CONFIRM THAT YOU ACCEPT AND AGREE TO BE BOUND BY THESE TERMS AND ACKNOWLEDGE THAT THEY CONSTITUTE A LEGALLY BINDING CONTRACT BETWEEN US AND YOU. IF YOU DO NOT AGREE TO ALL OF THESE TERMS, YOU ARE NOT PERMITTED TO ACCESS OR USE THE APP, AND YOU SHOULD NOT CLICK TO ACCEPT THESE TERMS AND YOU SHOULD NOT PROCEED FURTHER.**
 
 We reserve the right to change the terms of this EULA from time to time by notifying you (with the updated terms being displayed on-screen or with a link to the updated terms) when you next start the App. These terms and conditions were last updated on 25 October 2016.
 
-[Registering with us](#registering-with-us)
-[Using the App and making payments](#using-the-app-to-make-payments)
-[Access to the App](#access-to-the-app)
-[What you are allowed to do](#what-you-are-allowed-to-do)
-[What you are not allowed to do](#what-you-are-not-allowed-to-do)
-[Intellectual property rights](#intellectual-property-rights)
-[Member content](#member-content)
-[Third party platform providers and application stores](#third-party-platform-providers-and-application-stores)
-[Functionality and content](#functionality-and-content)
-[Your personal information](#your-personal-information)
-[External links](#external-links)
-[Our liability](#our-liability)
-[General](#general)
-[Contacting us](#contacting-us)
-[Additional terms from third party platform providers](#additional-terms-from-third-party-platform-providers)
+- [Registering with us](#registering-with-us)
+- [Using the App and making payments](#using-the-app-and-making-payments)
+- [Utility Services](#utility-services)
+- [Payment for Utility Services](#payment-for-utility-services)
+- [Access to the App](#access-to-the-app)
+- [What you are allowed to do](#what-you-are-allowed-to-do)
+- [What you are not allowed to do](#what-you-are-not-allowed-to-do)
+- [Intellectual property rights](#intellectual-property-rights)
+- [Member content](#member-content)
+- [Third party platform providers and application stores](#third-party-platform-providers-and-application-stores)
+- [Functionality and content](#functionality-and-content)
+- [Your personal information](#your-personal-information)
+- [External links](#external-links)
+- [Our liability](#our-liability)
+- [General](#general)
+- [Contacting us](#contacting-us)
+- [Additional terms from third party platform providers](#additional-terms-from-third-party-platform-providers)
 
 ### Registering with us
 
-Splittable makes shared living simple. The App allows you to keep track of everything people in your house (House) are spending money on – from rent to toilet roll, utility bills to nights out. When you download the App you will be asked whether you would like to set up a new House or whether you have an invitation to join an existing House set up on the App.
+Splittable makes shared living simple. The App allows you to keep track of everything people in your house (each a **House**) are spending money on – from rent to toilet roll, utility bills to nights out. When you download the App you will be asked whether you would like to set up a new House or whether you have an invitation to join an existing House set up on the App.
 
 #### New House
 
@@ -37,7 +39,7 @@ Setting up a new House is easy. You will be asked to enter the House name or add
 - providing your email address together with your first and last name; or
 - using your Facebook account.
 
-Once your House is set up, you can invite people you live with you to join either from your contact list or by entering their details manually.
+Once your House is set up, you can invite people you live with you to join either from your contacts list or by entering their details manually.
 
 #### Joining an existing House
 
@@ -53,7 +55,7 @@ Registration is subject to approval by us in all cases, and we reserve the right
 
 #### Passwords
 
-Upon registration for an account with us, you will be asked to create a password. You must keep your password confidential at all times and use it only to access and use your account and not for any other purpose. You are the only authorised member of your account and, accordingly, you must not disclose your password to anyone else. You should contact us immediately upon discovering any unauthorised use of your account or error in the operation of your password (see Contacting us). Any breach of these terms and conditions and/or any use of your account by anyone to whom you disclose your password will be treated as if the breach or use had been carried out by you, and will not relieve you of your obligations to us.
+Upon registration for an account with us, you will be asked to create a password. You must keep your password confidential at all times and use it only to access and use your account and not for any other purpose. You are the only authorised member of your account and, accordingly, you must not disclose your password to anyone else. You should contact us immediately upon discovering any unauthorised use of your account or error in the operation of your password (see [Contacting us](#contacting-us)). Any breach of these terms and conditions and/or any use of your account by anyone to whom you disclose your password will be treated as if the breach or use had been carried out by you, and will not relieve you of your obligations to us.
 
 We reserve the right to alter or replace them, or require you to do so, at any time in our sole discretion.
 
@@ -115,7 +117,7 @@ Except to the extent expressly set out in this EULA, you are not allowed to:
 
 All rights granted to you under this EULA will terminate immediately in the event that you are in breach of any of them.
 
-To do anything with the App that is not expressly permitted by this EULA, you will need a separate licence from us. Please contact us, using the Contacting us details at the end of this EULA.
+To do anything with the App that is not expressly permitted by this EULA, you will need a separate licence from us. Please contact us, using the [Contacting us](#contacting-us) details at the end of this EULA.
 
 ### Intellectual property rights
 
@@ -123,11 +125,11 @@ We license, but do not sell, to you the App you download. We remain the owners o
 
 All intellectual property rights in the App and in any content of the App (including text, graphics, software, photographs and other images, videos, sound, trade marks and logos), other than Member Content, are owned by us or our licensors. Except as expressly set out here, nothing in this EULA gives you any rights in respect of any intellectual property owned by us or our licensors and you acknowledge that you do not acquire any ownership rights by downloading the App or any content from the App.
 
-The App may contain code, commonly referred to as open source software, which is distributed under any of the many known variations of open source licence terms, including terms which allow the free distribution and modification of the relevant software’s source code and/or which require all distributors to make such source code freely available upon request, including any contributions or modifications made by such distributor (collectively, Open Source Software). Please note that, to the extent that the App contains any Open Source Software, that element only is licensed to you under the relevant licence terms of the applicable third party licensor (Open Source Licence Terms) and not under this EULA, and you accept and agree to be bound by such Open Source Licence Terms. A copy of the source code for any Open Source Software contained in the App and the relevant Open Source Licence Terms will be made available to you upon request.
+The App may contain code, commonly referred to as open source software, which is distributed under any of the many known variations of open source licence terms, including terms which allow the free distribution and modification of the relevant software’s source code and/or which require all distributors to make such source code freely available upon request, including any contributions or modifications made by such distributor (collectively, **Open Source Software**). Please note that, to the extent that the App contains any Open Source Software, that element only is licensed to you under the relevant licence terms of the applicable third party licensor (**Open Source Licence Terms**) and not under this EULA, and you accept and agree to be bound by such Open Source Licence Terms. A copy of the source code for any Open Source Software contained in the App and the relevant Open Source Licence Terms will be made available to you upon request.
 
 ### Member content
 
-The App allows you to submit member-generated content (Member Content) and may also allow you to communicate that content, either to selected recipients or to House members in public or semi-public areas (Member Content Areas). We do not control Member Content submitted, nor are Member Content Areas actively moderated. You are solely responsible for Member Content as submitted by you and acknowledge that all Member Content expresses the views of its respective authors, and not our views.
+The App allows you to submit member-generated content (**Member Content**) and may also allow you to communicate that content, either to selected recipients or to House members in public or semi-public areas (**Member Content Areas**). We do not control Member Content submitted, nor are Member Content Areas actively moderated. You are solely responsible for Member Content as submitted by you and acknowledge that all Member Content expresses the views of its respective authors, and not our views.
 
 If you submit any Member Content, you must:
 
@@ -143,11 +145,11 @@ You agree that, by submitting any Member Content, you grant us and our affiliate
 
 Whilst we do not pre-screen Member Content, we reserve the right, in our sole discretion, to delete, edit or modify any Member Content submitted by you and/or to close any discussion topic, at any time without notice to you.
 
-Complaints about the content of any Member Content must be sent to contact@splittable.co and must contain details of the specific Member Content giving rise to the complaint.
+Complaints about the content of any Member Content must be sent to [contact@splittable.co](mailto:contact@splittable.co) and must contain details of the specific Member Content giving rise to the complaint.
 
 ### Third party platform providers and application stores
 
-Certain third party platform providers with whose devices and/or operating systems the App have been designed to be compatible oblige us to include certain additional provisions in this EULA. These are set out at the end of this EULA under Additional third party terms. These provisions come from the relevant third party platform providers, not us.
+Certain third party platform providers with whose devices and/or operating systems the App have been designed to be compatible oblige us to include certain additional provisions in this EULA. These are set out at the end of this EULA under [Additional third party terms](#additional-third-party-terms). These provisions come from the relevant third party platform providers, not us.
 
 Third party application stores are operated by the relevant third party platform providers and/or their affiliates. You must comply with all applicable terms of service, rules and policies applying to any third party application store from which you download the App. We are not responsible for these stores or (with the exception of the App) for anything provided by them and do not guarantee that they will be continuously available.
 
@@ -167,7 +169,7 @@ We cannot and do not guarantee that the App or its content will be free from vir
 
 ### Your personal information
 
-Use of your personal information submitted to us is governed by our Privacy and Cookies Policy. Additionally, by using the App, you acknowledge that internet transmissions are never completely private or secure and that it is always possible that any message or information you send using the App may be read or intercepted by others.
+Use of your personal information submitted to us is governed by our [Privacy and Cookies Policy](https://github.com/locatable/splittable-docs/blob/master/privacy-policy.md). Additionally, by using the App, you acknowledge that internet transmissions are never completely private or secure and that it is always possible that any message or information you send using the App may be read or intercepted by others.
 
 ### External links
 
@@ -202,23 +204,23 @@ These terms and conditions and any document expressly referred to in them repres
 
 These terms and conditions shall be governed by English law. You agree that any dispute between you and us regarding them or the App will only be dealt with by the English courts, provided that, if you live in a part of the United Kingdom other than England, the applicable law of that part of the United Kingdom will govern and any dispute will only be dealt with by the courts there. Nothing shall prevent us from bringing proceedings to protect our intellectual property rights before any competent court.
 
-The European Online Dispute Resolution platform http://ec.europa.eu/consumers/odr/ provides information about alternative dispute resolution which may be of interest.
+The [European Online Dispute Resolution platform](http://ec.europa.eu/consumers/odr/) provides information about alternative dispute resolution which may be of interest.
 
 ### Contacting us
 
-Please submit any questions you have about this EULA or any complaint or concern in relation to the App by email to contact@splittable.co or write to us at: Stapleton House, 2nd Floor, 110 Clifton Street, London, EC2A 4HT
+Please submit any questions you have about this EULA or any complaint or concern in relation to the App by email to [contact@splittable.co](mailto:contact@splittable.co) or write to us at: Stapleton House, 2nd Floor, 110 Clifton Street, London, EC2A 4HT
 
 ### Additional terms from third party platform providers
 
-Apple
+#### Apple
 
 If the App that you download, access and/or use runs on Apple’s iOS operating system:
 
-• the App may only be accessed and used on a device owned or controlled by you and using Apple’s iOS operating system, and only in accordance with Apple’s usage rules published in its App Store terms of service;
+- the App may only be accessed and used on a device owned or controlled by you and using Apple’s iOS operating system, and only in accordance with Apple’s usage rules published in its App Store terms of service;
 
 - you acknowledge and agree that:
 
-  - Apple has no obligation at all to provide any support or maintenance services in relation to the App. If you have any maintenance or support questions in relation to the App, please contact us, not Apple, using the Contacting us details in these terms;
+  - Apple has no obligation at all to provide any support or maintenance services in relation to the App. If you have any maintenance or support questions in relation to the App, please contact us, not Apple, using the [Contacting us](#contacting-us) details in these terms;
 
   - except as otherwise expressly set out in these terms, any claims relating to the possession or use of the App are between you and us (and not between you, or anyone else, and Apple);
 
