@@ -154,6 +154,8 @@ Our privacy policy is pretty simple - we are strongly committed to respecting yo
 1. Third party links
 
   - Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+  
+  - We may also disclose your personal information to any Service Providers you sign up to receive Utility Services from. Information which we supply to Service Providers on your behalf is subject to the Service Provider's own privacy policy and terms and conditions
 
 1. Terms and Conditions
 
@@ -167,4 +169,4 @@ Our privacy policy is pretty simple - we are strongly committed to respecting yo
 
   - If we make any changes to this privacy policy, we will post those changes on this page and update the modification date below
   - You can also view a history of changes to this document [on GitHub](https://github.com/locatable/splittable-docs)
-  - This privacy policy was last updated on: July 31st, 2015.
+  - This privacy policy was last updated on: 25 October 2016.
