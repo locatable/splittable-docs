@@ -102,9 +102,9 @@ When signing up you:
 - must review and confirm your acceptance of the Service Provider's terms and conditions for the Utility Service (**Utility Terms**); and
 - must review and confirm your acceptance of these Splittable terms and conditions.
 
-You may check and correct any input errors in your order up until the point at which you submit your order to us by clicking the "Order with obligation to pay" button.
+You may check and correct any input errors in your order up until the point at which you submit your order to us by clicking the "Sign up for Splittable Utilities" button.
 
-After placing an order, you will receive an acknowledgment from us that we have received your order. Please note that this does not mean that your order has been accepted. Your order constitutes an offer to purchase the ordered Utility Service from the Service Provider. All orders are subject to acceptance by the Service Provider. The Service Provider is not obliged to accept your order and may, at its discretion, decline to accept any order for any reason. You do, however, acknowledge that by clicking on the "Order with obligation to pay" button, you enter into an obligation to pay for the Utility Service.
+After placing an order, you will receive an acknowledgment from us that we have received your order. Please note that this does not mean that your order has been accepted. Your order constitutes an offer to purchase the ordered Utility Service from the Service Provider. All orders are subject to acceptance by the Service Provider. The Service Provider is not obliged to accept your order and may, at its discretion, decline to accept any order for any reason. You do, however, acknowledge that by clicking on the "Sign up for Splittable Utilities" button, you enter into an obligation to pay for the Utility Service.
 
 Where your order is accepted, the Service Provider will confirm such acceptance by sending you a confirmation of your order (**Order Confirmation**). The contract between you and the Service Provider will only be formed when they send you the Order Confirmation.
 
