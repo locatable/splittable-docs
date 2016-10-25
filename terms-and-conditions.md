@@ -65,15 +65,16 @@ Members can add details of payments they or other House members have already mad
 
 The App allows members to record payments that have been made to House members offline. You can also make payments directly to other House members using the App.
 
-In order to make and receive payments to and from another House member you and they will need to provide the following information:
+In order to make and receive payments to and from another House member or make a payment to a Service Provider you sign up for, as set out in the [Utility Services section](#utility-services) below, you and they will need to provide the following information:
 
 - first and last name;
 - date of birth;
 - nationality;
 - address; and
-- details of your bank account.
+- details of your bank account; and
+- such other information as may be requested at signup.
 
-You will be prompted by the App to provide the foregoing information to us in the payment section when you first try to make a payment. You are not obliged to provide this information to us, but if you do not you will not be able to make payments using the App.
+You will be prompted by the App to provide the foregoing information to us in the payment section when you first try to make a payment or when you sign up to a service. You are not obliged to provide this information to us, but if you do not you will not be able to make payments using the App.
 
 Please note that you will not be able to pay a House member until that member has also registered to use the payment service by providing the information above. If you attempt to make a payment to a House member who is not registered, we will alert the House member to that attempt and send them a request to add their payment registration information.
 
@@ -81,7 +82,81 @@ We reserve the right, in our discretion, to carry out checks (including checks w
 
 You should be aware that online payment transactions are subject to validation checks by your card issuer and we are not responsible if your card issuer declines to authorise payment for any reason. Please note it is possible that your card issuer may charge you an online handling fee or processing fee. We are not responsible for this.
 
-Payments made on the App are made through our payment gateway provider, MangoPay. You will be providing credit or debit card and bank account information directly to MangoPay which operates a secure server to process payment details, encrypting your credit/debit card information and authorising payment. Information which you supply to MangoPay is not within our control and is subject to MangoPay's own privacy policy and terms and conditions available on via this link https://www.mangopay.com/terms/end-user-terms-and-conditions/Mangopay_Terms-EN.pdf. By registering to make payment directly to other House members using the App you confirm that you accept and agree to be bound by MangoPay's terms and acknowledge that they constitute a legally binding contract between MangoPay and you.
+Payments made on the App are made through our payment gateway provider, MangoPay. You will be providing credit or debit card and bank account information directly to MangoPay which operates a secure server to process payment details, encrypting your credit/debit card information and authorising payment. Information which you supply to MangoPay is not within our control and is subject to MangoPay's own privacy policy and terms and conditions available on [their website](https://www.mangopay.com/terms/end-user-terms-and-conditions/Mangopay_Terms-EN.pdf). By registering to make payment directly to other House members using the App you confirm that you accept and agree to be bound by MangoPay's terms and acknowledge that they constitute a legally binding contract between MangoPay and you.
+
+### Utility Services
+
+Splittable offers a service where House members can choose to sign up with certain utility providers that we offer through the App from time to time (each a **Service Provider**), to receive the utility service offered by that Service Provider (**Utility Service**) and manage and apportion payment for that Utility Service through the App.
+
+The contract for the Utility Service is between you and the Service Provider. Splittable is not a party to that contract and is not responsible for the provision of the Utility Service. If you have any questions or concerns with the Utility Service these should be raised directly with the relevant Service Provider. Please see [Our Liability](#our-liability) for more details.
+
+If you choose to sign up for a Utility Service on the App, you appoint us as your agent to conclude and enter into the contract with the Service Provider on your behalf. That means that you authorise Splittable to sign you up directly with the Service Provider to receive the Utility Service and, if relevant, to switch the House over from an existing supplier of the same service. The contract for the Utility Service is between you and the Service Provider and you are responsible for paying all costs which accrue to you as a result of your use of the Utility Service. If you do not wish to enter into a contract with the Service Provider you should not proceed through the sign up steps in the App.
+
+#### Signing Up
+
+You can sign up with a Service Provider by going to the "Services" section of the App and following the on-screen instructions. You acknowledge and agree that by completing the sign up process you have permission from other House members to sign up for the Utility Service.
+
+When signing up you:
+- must provide and/or confirm your details and those of your House;
+- will be presented with tariff details and the estimated cost for the Utility Service;
+- must review and confirm your acceptance of the Service Provider's terms and conditions for the Utility Service (**Utility Terms**); and
+- must review and confirm your acceptance of these Splittable terms and conditions.
+
+You may check and correct any input errors in your order up until the point at which you submit your order to us by clicking the "Order with obligation to pay" button.
+
+After placing an order, you will receive an acknowledgment from us that we have received your order. Please note that this does not mean that your order has been accepted. Your order constitutes an offer to purchase the ordered Utility Service from the Service Provider. All orders are subject to acceptance by the Service Provider. The Service Provider is not obliged to accept your order and may, at its discretion, decline to accept any order for any reason. You do, however, acknowledge that by clicking on the "Order with obligation to pay" button, you enter into an obligation to pay for the Utility Service.
+
+Where your order is accepted, the Service Provider will confirm such acceptance by sending you a confirmation of your order (**Order Confirmation**). The contract between you and the Service Provider will only be formed when they send you the Order Confirmation.
+
+The Order Confirmation will contain details of:
+- your 'cooling off period' and cancellation rights;
+- the billing cycle for the Utility Service (i.e. once a month/quarter) (Billing Cycle); and
+- any other information, including a full copy of their terms and conditions, relating to the Utility Service provided by the Service Provider.
+
+#### Meter Readings
+
+Where applicable, you shall obtain regular meter readings relating to the Utility Service and enter those details into the App using functionality that we make available. We may notify you through the App from time to time to update details of your meter readings for the House. You can turn these notifications off at any time.
+
+### Payment for Utility Services
+
+Payment for the Utility Service is managed through the App, using our payment provider MangoPay.
+
+Charges for the Utility Service shall be split equally between the House members, unless otherwise agreed. Each House member will receive an individual invoice for the Utility Service on the first business day of the Billing Cycle (each an **Invoice**). A "business day" is a day other than Saturday or Sunday or a public holiday in England. Invoice will be emailed to the email address you provide during sign up.
+
+Each Invoice will contain details of the date that payment is due (**Due Date**). If there are sufficient funds in each House member's wallet, the Invoices for the Utility Service shall be automatically settled on the Due Date.
+
+#### Joint and Several Liability
+
+The House members are jointly and severally liable for Utility Service debts of the House. That means that in the event that a House member(s)'s wallet contains insufficient funds to pay for the Utility Service on a due Date, the other House members shall be equally liable to pay the difference. For example:
+
+- a Utility Service bill is £18;
+- there are three House members, so the bill comes to £6 each;
+- one House member does not have sufficient funds on the Due Date, leaving £6 outstanding;
+- if payment remains outstanding after exhausting the [Payment Collection Process](#payment-collection-process) outlined below, the remaining two House members will automatically pay the difference being £3 each.
+
+If for any reason we cannot collection any amount which is outstanding from the remaining House members, the Service Provider, in accordance with its terms and conditions may then pursue the lead House member for payment.  For further details of the action which may be taken against any specific House member please refer to the relevant terms and conditions.
+
+The App will automatically record details of any payments for Utility Services made by House members on behalf of other House members from time to time, so that the debt is visible and/or reconciled against the existing payment history of the House members.
+
+### Payment Collection Process
+
+| Day | Action | Description |
+| --- | ------ | ----------- |
+| 1-3 | House members can make early payments | Payments can be made early. |
+| 3   | Splittable initiates payment of invoices | Splittable initiates payment of Invoice from House member's cards. |
+| 3   | House member[s] fails to pay on Due Date | Payment attempted multiple times throughout the day if initally fail. |
+| 3   | House member[s] and rest of House alerted of failure to pay. | Splittable notifies both the House member and rest of the House explaining failure to pay, requesting payment by Day 5 and explaining outstanding amount will be taken from remaining House members if not received. |
+| 5   | Splittable initiates payment of outstanding invoices | Payments which weren’t made on Day 3 are reattempted on Day 5 |
+| 5   | House member[s] fails again to pay | Splittable informs entire House that outstanding amount will be taken from other House member's wallets in 2 days time. |
+| 5-7 | All House members can make early payments | Prior to the payments on day 7, the payment shares can be altered and paid early. |
+| 7   | Splittable initiates payment of remaining invoices | Payments split between remaining House members to pay all invoices. |
+| 8   | If Invoice[s] remain unpaid, the debt shall be passed to the Service Provider | If the Invoice[s] for the House remains unpaid following completion of the above steps, then the Service Provider will collect the debt in accordance with its internal process. |
+
+#### Reconciliation
+
+Where an invoice for Utility Services is based on estimated usage for the Billing Cycle, there may be occasions where the House has paid too much or too little for the Utility Service. This will be automatically reconciled in the invoice(s) for the following Billing Cycle. House members shall send regular [Meter Readings](#meter-readings) where available and applicable.
+
+To the extent that any refund becomes due and payable this will be payable equally amongst all House members.
 
 ### Access to the App
 
@@ -185,6 +260,16 @@ Nothing in this EULA shall limit or exclude our liability to you:
 - for any other liability that, by law, may not be limited or excluded.
 
 Subject to this, if you are a consumer and not a business user, in no event shall we be liable to you for any business losses , and if you are a business user, in no event shall we be liable to you for any indirect or consequential losses, or for any loss of profit, revenue, contracts, data, goodwill or other similar losses.
+
+You acknowledge and agree that:
+- we shall not be responsible for any act or omission of a Service Provider;
+- we do not endorse the goods or services made available by a Service Provider;
+- we do not warrant or represent that any quotes or tariffs you receive from Service Provider using the App will be cheaper than could be obtained by any other means;
+- any information appearing on the App in relation to a given Service Provider (including tariffs and/or estimates) is provided by the Service Provider concerned and is the responsibility of that Service Provider, not us;
+- if you choose to purchase a Utility Service from a Service Provider:
+  - that will be on the basis of a contract between you and the Service Provider alone, on the terms agreed between you and the Service Provider; and
+  - we shall not be a party to that contract and neither shall we be responsible in any way for the performance of that contract by the Service Provider or for the quality or safety of any Utility Services sold by the Service Provider; and
+- in the event of a problem with any Utility Service, all billing and payments queries should in the first instance be directed to us by contacting us at [support@splittable.co](mailto:support@splittable.co), although we reserve the right to ask you to contact the Service Provider directly should this, in our opinion be necessary, and any technical or service disruption should be directed to the Service Provider concerned.
 
 We will not be liable or responsible for any failure to perform, or delay in performance of, any of our obligations that is caused by events outside our reasonable control.
 
