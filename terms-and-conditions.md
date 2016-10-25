@@ -8,24 +8,23 @@ The App are provided by Locatable Limited (we, us and our). We are a limited com
 
 BY DOWNLOADING, ACCESSING AND/OR USING THE APP, YOU CONFIRM THAT YOU ACCEPT AND AGREE TO BE BOUND BY THESE TERMS AND ACKNOWLEDGE THAT THEY CONSTITUTE A LEGALLY BINDING CONTRACT BETWEEN US AND YOU. IF YOU DO NOT AGREE TO ALL OF THESE TERMS, YOU ARE NOT PERMITTED TO ACCESS OR USE THE APP, AND YOU SHOULD NOT CLICK TO ACCEPT THESE TERMS AND YOU SHOULD NOT PROCEED FURTHER.
 
-We reserve the right to change the terms of this EULA from time to time by notifying you (with the updated terms being displayed on-screen or with a link to the updated terms) when you next start the App. These terms and conditions were last updated on 24 May 2016.
+We reserve the right to change the terms of this EULA from time to time by notifying you (with the updated terms being displayed on-screen or with a link to the updated terms) when you next start the App. These terms and conditions were last updated on 25 October 2016.
 
-Registering with us
-Using the App and making payments
-Access to the App
-What you are allowed to do
-What you are not allowed to do
-Intellectual property rights
-Member content
-Third party platform providers and application stores
-Functionality and content
-Your personal information
-External links
-Our liability
-General
-Contacting us
-Additional terms from third party platform providers
-
+[Registering with us](#registering-with-us)
+[Using the App and making payments](#using-the-app-to-make-payments)
+[Access to the App](#access-to-the-app)
+[What you are allowed to do](#what-you-are-allowed-to-do)
+[What you are not allowed to do](#what-you-are-not-allowed-to-do)
+[Intellectual property rights](#intellectual-property-rights)
+[Member content](#member-content)
+[Third party platform providers and application stores](#third-party-platform-providers-and-application-stores)
+[Functionality and content](#functionality-and-content)
+[Your personal information](#your-personal-information)
+[External links](#external-links)
+[Our liability](#our-liability)
+[General](#general)
+[Contacting us](#contacting-us)
+[Additional terms from third party platform providers](#additional-terms-from-third-party-platform-providers)
 
 ### Registering with us
 
