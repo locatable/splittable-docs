@@ -8,7 +8,7 @@ The App are provided by Locatable Limited (we, us and our). We are a limited com
 
 **BY DOWNLOADING, ACCESSING AND/OR USING THE APP, YOU CONFIRM THAT YOU ACCEPT AND AGREE TO BE BOUND BY THESE TERMS AND ACKNOWLEDGE THAT THEY CONSTITUTE A LEGALLY BINDING CONTRACT BETWEEN US AND YOU. IF YOU DO NOT AGREE TO ALL OF THESE TERMS, YOU ARE NOT PERMITTED TO ACCESS OR USE THE APP, AND YOU SHOULD NOT CLICK TO ACCEPT THESE TERMS AND YOU SHOULD NOT PROCEED FURTHER.**
 
-We reserve the right to change the terms of this EULA from time to time by notifying you (with the updated terms being displayed on-screen or with a link to the updated terms) when you next start the App. These terms and conditions were last updated on 25 October 2016.
+We reserve the right to change the terms of this EULA from time to time by notifying you (with the updated terms being displayed on-screen or with a link to the updated terms) when you next start the App. These terms and conditions were last updated on 28 October 2016.
 
 - [Registering with us](#registering-with-us)
 - [Using the App and making payments](#using-the-app-and-making-payments)
@@ -83,6 +83,8 @@ We reserve the right, in our discretion, to carry out checks (including checks w
 You should be aware that online payment transactions are subject to validation checks by your card issuer and we are not responsible if your card issuer declines to authorise payment for any reason. Please note it is possible that your card issuer may charge you an online handling fee or processing fee. We are not responsible for this.
 
 Payments made on the App are made through our payment gateway provider, MangoPay. You will be providing credit or debit card and bank account information directly to MangoPay which operates a secure server to process payment details, encrypting your credit/debit card information and authorising payment. Information which you supply to MangoPay is not within our control and is subject to MangoPay's own privacy policy and terms and conditions available on [their website](https://www.mangopay.com/terms/end-user-terms-and-conditions/Mangopay_Terms-EN.pdf). By registering to make payment directly to other House members using the App you confirm that you accept and agree to be bound by MangoPay's terms and acknowledge that they constitute a legally binding contract between MangoPay and you.
+
+For the avoidance of doubt, deletion of the App does not affect or prejudice your obligations arising under this EULA or in relation to any Utility Service you sign up for through the App including (without limitation) your obligation to pay for a Utility Service.
 
 ### Utility Services
 
