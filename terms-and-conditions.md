@@ -119,6 +119,12 @@ The Order Confirmation will contain details of:
 
 Where applicable, you shall obtain regular meter readings relating to the Utility Service and enter those details into the App using functionality that we make available. We may notify you through the App from time to time to update details of your meter readings for the House. You can turn these notifications off at any time.
 
+#### Consumer Rights
+
+- If you choose to sign up for a Utility Service on the App, you appoint us as your agent to conclude, enter into, make payments under and manage the contract with the Service Provider on your behalf; and
+- Signing up for a Utility Service on the App does not prevent you from switching to another Service Provider at any time, however, if you do so you may become ineligible for some or all services available under the App; and
+- When you sign-up for a Utility Service you must provide us with the full postal address of your property and the total number of occupants and bedrooms in your property. We will provide you with a projection of your predicted costs for the Utility Service based on the Utility Service tariff and the estimated annual consumption rate issued by Ofgem for properties of your size. The Service Provider will then provide you with the relevant Tariff Information Label and Tariff Comparison Rate in due course.
+
 ### Payment for Utility Services
 
 Payment for the Utility Service is managed through the App, using our payment provider MangoPay.
