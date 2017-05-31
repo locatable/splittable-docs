@@ -1,6 +1,6 @@
 # Terms and Conditions
 
-This End User Licence Agreement (EULA) sets out the terms of licence and use that apply to the app for use on mobile devices (such as mobile phones, tablets and other devices), including any updates to the app, that we make available for download from any third party application store and our web-based application that we make available on our website www.splittable.co (the App or Splittable).
+This End User Licence Agreement (EULA) sets out the terms of licence and use that apply to the app for use on mobile devices (such as mobile phones, tablets and other devices), including any updates to the app, that we make available for download from any third party application store and our web-based application that we make available on our website www.helloacasa.com (the App or acasa).
 
 These terms and conditions also apply to any of the services accessible through the App, unless separate or additional terms apply, in which case they will be displayed on-screen or accessible via a link.
 
@@ -30,7 +30,7 @@ We reserve the right to change the terms of this EULA from time to time by notif
 
 ### Registering with us
 
-Splittable makes shared living simple. The App allows you to keep track of everything people in your house (each a **House**) are spending money on – from rent to toilet roll, utility bills to nights out. When you download the App you will be asked whether you would like to set up a new House or whether you have an invitation to join an existing House set up on the App.
+acasa makes shared living simple. The App allows you to keep track of everything people in your house (each a **House**) are spending money on – from rent to toilet roll, utility bills to nights out. When you download the App you will be asked whether you would like to set up a new House or whether you have an invitation to join an existing House set up on the App.
 
 #### New House
 
@@ -88,11 +88,11 @@ For the avoidance of doubt, deletion of the App does not affect or prejudice you
 
 ### Utility Services
 
-Splittable offers a service where House members can choose to sign up with certain utility providers that we offer through the App from time to time (each a **Service Provider**), to receive the utility service offered by that Service Provider (**Utility Service**) and manage and apportion payment for that Utility Service through the App.
+acasa offers a service where House members can choose to sign up with certain utility providers that we offer through the App from time to time (each a **Service Provider**), to receive the utility service offered by that Service Provider (**Utility Service**) and manage and apportion payment for that Utility Service through the App.
 
-The contract for the Utility Service is between you and the Service Provider. Splittable is not a party to that contract and is not responsible for the provision of the Utility Service. If you have any questions or concerns with the Utility Service these should be raised directly with the relevant Service Provider. Please see [Our Liability](#our-liability) for more details.
+The contract for the Utility Service is between you and the Service Provider. acasa is not a party to that contract and is not responsible for the provision of the Utility Service. If you have any questions or concerns with the Utility Service these should be raised directly with the relevant Service Provider. Please see [Our Liability](#our-liability) for more details.
 
-If you choose to sign up for a Utility Service on the App, you appoint us as your agent to conclude and enter into the contract with the Service Provider on your behalf. That means that you authorise Splittable to sign you up directly with the Service Provider to receive the Utility Service and, if relevant, to switch the House over from an existing supplier of the same service. The contract for the Utility Service is between you and the Service Provider and you are responsible for paying all costs which accrue to you as a result of your use of the Utility Service. If you do not wish to enter into a contract with the Service Provider you should not proceed through the sign up steps in the App.
+If you choose to sign up for a Utility Service on the App, you appoint us as your agent to conclude and enter into the contract with the Service Provider on your behalf. That means that you authorise acasa to sign you up directly with the Service Provider to receive the Utility Service and, if relevant, to switch the House over from an existing supplier of the same service. The contract for the Utility Service is between you and the Service Provider and you are responsible for paying all costs which accrue to you as a result of your use of the Utility Service. If you do not wish to enter into a contract with the Service Provider you should not proceed through the sign up steps in the App.
 
 #### Signing Up
 
@@ -102,11 +102,11 @@ When signing up you:
 - must provide and/or confirm your details and those of your House;
 - will be presented with tariff details and the estimated cost for the Utility Service;
 - must review and confirm your acceptance of the Service Provider's terms and conditions for the Utility Service (**Utility Terms**); and
-- must review and confirm your acceptance of these Splittable terms and conditions.
+- must review and confirm your acceptance of these acasa terms and conditions.
 
-You may check and correct any input errors in your order up until the point at which you submit your order to us by clicking the "Sign up for Splittable Utilities" button.
+You may check and correct any input errors in your order up until the point at which you submit your order to us by clicking the "Sign up for acasa Utilities" button.
 
-After placing an order, you will receive an acknowledgment from us that we have received your order. Please note that this does not mean that your order has been accepted. Your order constitutes an offer to purchase the ordered Utility Service from the Service Provider. All orders are subject to acceptance by the Service Provider. The Service Provider is not obliged to accept your order and may, at its discretion, decline to accept any order for any reason. You do, however, acknowledge that by clicking on the "Sign up for Splittable Utilities" button, you enter into an obligation to pay for the Utility Service.
+After placing an order, you will receive an acknowledgment from us that we have received your order. Please note that this does not mean that your order has been accepted. Your order constitutes an offer to purchase the ordered Utility Service from the Service Provider. All orders are subject to acceptance by the Service Provider. The Service Provider is not obliged to accept your order and may, at its discretion, decline to accept any order for any reason. You do, however, acknowledge that by clicking on the "Sign up for acasa Utilities" button, you enter into an obligation to pay for the Utility Service.
 
 Where your order is accepted, the Service Provider will confirm such acceptance by sending you a confirmation of your order (**Order Confirmation**). The contract between you and the Service Provider will only be formed when they send you the Order Confirmation.
 
@@ -151,13 +151,13 @@ The App will automatically record details of any payments for Utility Services m
 | Day | Action | Description |
 | --- | ------ | ----------- |
 | 1-3 | House members can make early payments | Payments can be made early. |
-| 3   | Splittable initiates payment of invoices | Splittable initiates payment of Invoice from House member's cards. |
+| 3   | acasa initiates payment of invoices | acasa initiates payment of Invoice from House member's cards. |
 | 3   | House member[s] fails to pay on Due Date | Payment attempted multiple times throughout the day if initally fail. |
-| 3   | House member[s] and rest of House alerted of failure to pay. | Splittable notifies both the House member and rest of the House explaining failure to pay, requesting payment by Day 5 and explaining outstanding amount will be taken from remaining House members if not received. |
-| 5   | Splittable initiates payment of outstanding invoices | Payments which weren’t made on Day 3 are reattempted on Day 5 |
-| 5   | House member[s] fails again to pay | Splittable informs entire House that outstanding amount will be taken from other House member's wallets in 2 days time. |
+| 3   | House member[s] and rest of House alerted of failure to pay. | acasa notifies both the House member and rest of the House explaining failure to pay, requesting payment by Day 5 and explaining outstanding amount will be taken from remaining House members if not received. |
+| 5   | acasa initiates payment of outstanding invoices | Payments which weren’t made on Day 3 are reattempted on Day 5 |
+| 5   | House member[s] fails again to pay | acasa informs entire House that outstanding amount will be taken from other House member's wallets in 2 days time. |
 | 5-7 | All House members can make early payments | Prior to the payments on day 7, the payment shares can be altered and paid early. |
-| 7   | Splittable initiates payment of remaining invoices | Payments split between remaining House members to pay all invoices. |
+| 7   | acasa initiates payment of remaining invoices | Payments split between remaining House members to pay all invoices. |
 | 8   | If Invoice[s] remain unpaid, the debt shall be passed to the Service Provider | If the Invoice[s] for the House remains unpaid following completion of the above steps, then the Service Provider will collect the debt in accordance with its internal process. |
 
 #### Reconciliation
@@ -228,7 +228,7 @@ You agree that, by submitting any Member Content, you grant us and our affiliate
 
 Whilst we do not pre-screen Member Content, we reserve the right, in our sole discretion, to delete, edit or modify any Member Content submitted by you and/or to close any discussion topic, at any time without notice to you.
 
-Complaints about the content of any Member Content must be sent to [contact@splittable.co](mailto:contact@splittable.co) and must contain details of the specific Member Content giving rise to the complaint.
+Complaints about the content of any Member Content must be sent to [contact@helloacasa.com](mailto:contact@helloacasa.com) and must contain details of the specific Member Content giving rise to the complaint.
 
 ### Third party platform providers and application stores
 
@@ -277,7 +277,7 @@ You acknowledge and agree that:
 - if you choose to purchase a Utility Service from a Service Provider:
   - that will be on the basis of a contract between you and the Service Provider alone, on the terms agreed between you and the Service Provider; and
   - we shall not be a party to that contract and neither shall we be responsible in any way for the performance of that contract by the Service Provider or for the quality or safety of any Utility Services sold by the Service Provider; and
-- in the event of a problem with any Utility Service, all billing and payments queries should in the first instance be directed to us by contacting us at [support@splittable.co](mailto:support@splittable.co), although we reserve the right to ask you to contact the Service Provider directly should this, in our opinion be necessary, and any technical or service disruption should be directed to the Service Provider concerned.
+- in the event of a problem with any Utility Service, all billing and payments queries should in the first instance be directed to us by contacting us at [support@helloacasa.com](mailto:support@helloacasa.com), although we reserve the right to ask you to contact the Service Provider directly should this, in our opinion be necessary, and any technical or service disruption should be directed to the Service Provider concerned.
 
 We will not be liable or responsible for any failure to perform, or delay in performance of, any of our obligations that is caused by events outside our reasonable control.
 
@@ -301,7 +301,7 @@ The [European Online Dispute Resolution platform](http://ec.europa.eu/consumers/
 
 ### Contacting us
 
-Please submit any questions you have about this EULA or any complaint or concern in relation to the App by email to [contact@splittable.co](mailto:contact@splittable.co) or write to us at: Stapleton House, 2nd Floor, 110 Clifton Street, London, EC2A 4HT
+Please submit any questions you have about this EULA or any complaint or concern in relation to the App by email to [contact@helloacasa.com](mailto:contact@helloacasa.com) or write to us at: Stapleton House, 2nd Floor, 110 Clifton Street, London, EC2A 4HT
 
 ### Additional terms from third party platform providers
 
