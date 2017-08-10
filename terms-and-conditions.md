@@ -13,6 +13,7 @@ We reserve the right to change the terms of this EULA from time to time by notif
 - [Registering with us](#registering-with-us)
 - [Using the App and making payments](#using-the-app-and-making-payments)
 - [Utility Services](#utility-services)
+- [TV Licence](#tv-licence)
 - [Payment for Utility Services](#payment-for-utility-services)
 - [Access to the App](#access-to-the-app)
 - [What you are allowed to do](#what-you-are-allowed-to-do)
@@ -165,6 +166,56 @@ The App will automatically record details of any payments for Utility Services m
 Where an invoice for Utility Services is based on estimated usage for the Billing Cycle, there may be occasions where the House has paid too much or too little for the Utility Service. This will be automatically reconciled in the invoice(s) for the following Billing Cycle. House members shall send regular [Meter Readings](#meter-readings) where available and applicable.
 
 To the extent that any refund becomes due and payable this will be payable equally amongst all House members.
+
+### TV Licence
+
+acasa offers a service where House member can choose to purchase their [TV Licence](http://www.tvlicensing.co.uk/) through the App.
+
+The contract for the TV Licence is between you and TV Licensing who act for and on behalf of the BBC ("TV Licensing").  asaca are not a party to the contract and only act on your behalf to purchase the TV Licence .  asaca is not responsible for the provision of any television service or your purchase of the TV Licence is sufficient for your use.  If you have any questions or concerns about the provision of the TV Licence you should raise these directly with TV Licensing.
+
+If you choose to purchase your TV Licence on the App, you appoint us as your agent to conclude and enter into the contract with TV Licensing on your behalf.  That means you authorise asaca to sign you up directly with TV Licensing to receive your TV Licence .  The contract for the TV Licence is between you and TV Licensing and you are responsible for paying all costs associated with the TV Licence.  if you do not wish for us to purchase the TV Licence on your behalf you should not proceed with the sign up steps in the App. 
+
+#### Purchasing a TV Licence  
+
+You can purchase your TV Licence by going to the "TV Licence " section of the App or Website and following the on-screen instructions.  You acknowledge and agree that by completing the purchase process you have the permission from other House members to make the purchase and that no one in your House has already purchased a TV Licence.
+
+#### To purchase a TV Licence  you must :
+
+provide the details about your House requested in the purchase process;
+read review and confirm your acceptance of TV Licensing [terms and conditions](http://www.tvlicensing.co.uk/check-if-you-need-one/topics/terms-and-conditions-top11) and [privacy policy](http://www.tvlicensing.co.uk/privacy-security-policies) for the TV Licence;
+must review and confirm your acceptance of these acasa terms and conditions;
+pay and arrange for each House member to pay into their e-wallet the total cost of the TV Licence.  
+
+You may check and correct any errors in your purchase up until the point at which you submit your purchase request. You submit your purchase request by clicking the "purchase now" button.
+ 
+We will only purchase the TV Licence once we have received full payment of the TV Licence  whether from you directly or from each House member in the agreed proportions.  Until we receive the full fee for the TV Licence , we will not purchase the TV Licence on behalf of the House, and if we don’t receive the full license fee within 10 days of you completing the purchase process and clicking on the "purchase now" button we will discontinue your purchase and notify you of the same.  Any monies in your or each House member's e-wallet will be returned to you/relevant House member. 
+
+Once we have received the full TV Licence  fee we will, without further reference to you, purchase of the TV Licence.  
+
+Once we have purchase the TV Licence  you will receive notification directly from TV Licensing that the TV Licence  have been purchased and we will transfer the monies from your e-wallet for payment. 
+
+#### Cancelling your TV Licence  
+
+You may cancel your TV Licence  at any time by contacting TV Licensing [directly](http://www.tvlicensing.co.uk/check-if-you-need-one/refunds-and-cancellations/apply-for-a-refund).
+
+If you choose, we may also assist you with cancelling your TV Licence .  If you have not purchased your TV Licence  through the App we will not cancel the TV Licence  for you and will decline your cancellation request.
+
+If you have purchased your TV Licence  through the App and you wish us to assist with the cancellation, you must:
+
+complete the cancellation details requested in the cancellation process; 
+Send copies by in app chat or email to support@helloacasa.com, copies of the documentation requested by us as part of the cancellation process.
+
+You may check and correct any errors in your cancellation up until the point at which you submit your cancellation request. You submit your cancellation request by email or in app chat.
+
+By clicking on the "cancel now" button you acknowledge and agree that you have the authority of all the House members to cancel the TV Licence  and further you confirm that the House no longer needs a TV Licence .  We will have no liability to you if you cancel the TV Licence  when a TV Licence  is still required.  If you are not sure whether to cancel the TV Licence  please refer to the [TV Licensing website](http://www.tvlicensing.co.uk/). 
+
+It is your responsibility to ensure that the documentation you provide us is accurate and up-to-date.  We will not review this documentation and will not be liable to you if the cancellation of your TV Licence  is delayed or declined as a result of the documentation you provide.  
+
+If you do not provide the requested documentation within 48 hours of your cancellation request we will discontinue your cancellation request and notify you of the same.
+
+Once we have received the cancellation request together with the relevant documents, we will within 96 hours of receipt submit the cancellation request.  Any refunded monies received from TV Licensing will be repaid to you and, where relevant, the House members in the proportions in which we received the payment for the TV Licence . 
+
+We will not be liable to do for any failure to cancel the TV Licence  due to the provision by you of any inaccurate information or documentation or failure by you to provide the documentation requested.  
 
 ### Access to the App
 
