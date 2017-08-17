@@ -8,7 +8,7 @@ The App are provided by Locatable Limited (we, us and our). We are a limited com
 
 **BY DOWNLOADING, ACCESSING AND/OR USING THE APP, YOU CONFIRM THAT YOU ACCEPT AND AGREE TO BE BOUND BY THESE TERMS AND ACKNOWLEDGE THAT THEY CONSTITUTE A LEGALLY BINDING CONTRACT BETWEEN US AND YOU. IF YOU DO NOT AGREE TO ALL OF THESE TERMS, YOU ARE NOT PERMITTED TO ACCESS OR USE THE APP, AND YOU SHOULD NOT CLICK TO ACCEPT THESE TERMS AND YOU SHOULD NOT PROCEED FURTHER.**
 
-We reserve the right to change the terms of this EULA from time to time by notifying you (with the updated terms being displayed on-screen or with a link to the updated terms) when you next start the App. These terms and conditions were last updated on 28 October 2016.
+We reserve the right to change the terms of this EULA from time to time by notifying you (with the updated terms being displayed on-screen or with a link to the updated terms) when you next start the App.
 
 - [Registering with us](#registering-with-us)
 - [Using the App and making payments](#using-the-app-and-making-payments)
