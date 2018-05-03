@@ -6,7 +6,7 @@ Our privacy policy is pretty simple - we are strongly committed to respecting yo
 
  - We collect information from you when you register on our site, and track information about your houseshare.
  - When registering on our site, as appropriate, you may be asked to enter your: name and e-mail address. You may, however, visit our site anonymously.
- - If you register using your Facebook account, we use your name and email address to create an account for you on Splittable. We do not (and never will!) post to your timeline without your explicit permission. We abide by the [Facebook Platform Policy](https://developers.facebook.com/policy).
+ - If you register using your Facebook account, we use your name and email address to create an account for you on acasa. We do not (and never will!) post to your timeline without your explicit permission. We abide by the [Facebook Platform Policy](https://developers.facebook.com/policy).
 
 1. What do we use your information for?
 
@@ -14,7 +14,7 @@ Our privacy policy is pretty simple - we are strongly committed to respecting yo
 
   - To personalise and tailor your experience so that we can provide the best solutions for your own individual needs;
   - To improve our website and manage capacity based on anonymised usage data and feedback we receive from you; or
-  - To send periodic emails. We use [Mailchimp](http://www.mailchimp.com) to handle our emails and [neither of us](http://mailchimp.com/legal/privacy/) will sell your email address, pass it on to any unauthorised third parties or bombard you with spam. In fact, if you give us your email address, the only things we'll be sending you are important Splittable updates and information about testing new features. You can unsubscribe from these emails by clicking the unsubscribe link at the bottom of any of them.
+  - To send periodic emails. We use [Mailchimp](http://www.mailchimp.com) to handle our emails and [neither of us](http://mailchimp.com/legal/privacy/) will sell your email address, pass it on to any unauthorised third parties or bombard you with spam. In fact, if you give us your email address, the only things we'll be sending you are important acasa updates and information about testing new features. You can unsubscribe from these emails by clicking the unsubscribe link at the bottom of any of them.
 
 1. How do we protect your information?
 
@@ -38,7 +38,7 @@ Our privacy policy is pretty simple - we are strongly committed to respecting yo
     </thead>
     <tbody>
       <tr>
-        <td>_splittable-site_session</td>
+        <td>_acasa-site_session</td>
         <td>Managing your user session and login if you have an account</td>
         <td>Session</td>
       </tr>
@@ -134,18 +134,18 @@ Our privacy policy is pretty simple - we are strongly committed to respecting yo
 
   #### Intercom
 
-  We use Intercom to monitor usage of Splittable for logged in users, identify problems that they are having and help them use Splittable.
+  We use Intercom to monitor usage of acasa for logged in users, identify problems that they are having and help them use acasa.
   These cookies will not be set if you opt out of analytics tracking using Cookie Consent.
   Intercom's privacy policy can be found [here](http://docs.intercom.io/privacy)
 
   #### Optimizely
 
-  We use [Optimizely](https://www.optimizely.com) to track changes we make to our website to continuously improve it and make it a better experience for all households on Splittable. Information about the cookies Optimizely sets on our behalf can be found in their support article [here](https://help.optimizely.com/hc/en-us/articles/200040335-How-Optimizely-Works-Snippet-order-of-operations-JavaScript-evaluation-timing-and-cookies).
+  We use [Optimizely](https://www.optimizely.com) to track changes we make to our website to continuously improve it and make it a better experience for all households on acasa. Information about the cookies Optimizely sets on our behalf can be found in their support article [here](https://help.optimizely.com/hc/en-us/articles/200040335-How-Optimizely-Works-Snippet-order-of-operations-JavaScript-evaluation-timing-and-cookies).
   These cookies will not be set if you opt out of analytics tracking using Cookie Consent.
 
   #### Referral cookies
 
-  We set 4 cookies (referral_campaign, referral_channel, referral_tags, referral_url) to track how you discovered Splittable and which link of ours you clicked on to discover us. These cookies will not be set if you opt out using Cookie Consent.
+  We set 4 cookies (referral_campaign, referral_channel, referral_tags, referral_url) to track how you discovered acasa and which link of ours you clicked on to discover us. These cookies will not be set if you opt out using Cookie Consent.
 
 1. Do we disclose any information to outside parties?
 
@@ -159,7 +159,7 @@ Our privacy policy is pretty simple - we are strongly committed to respecting yo
 
 1. Terms and Conditions
 
-  - Please also visit our [Terms and Conditions](https://www.splittable.co/support/terms), establishing the use, disclaimers, and limitations of liability governing the use of our website.
+  - Please also visit our [Terms and Conditions](https://www.helloacasa.com/support/terms), establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 1. Your Consent
 
@@ -168,5 +168,5 @@ Our privacy policy is pretty simple - we are strongly committed to respecting yo
 1. Changes to our Privacy Policy
 
   - If we make any changes to this privacy policy, we will post those changes on this page and update the modification date below
-  - You can also view a history of changes to this document [on GitHub](https://github.com/locatable/splittable-docs)
-  - This privacy policy was last updated on: 25 October 2016.
+  - You can also view a history of changes to this document [on GitHub](https://github.com/locatable/acasa-docs)
+  - This privacy policy was last updated on: 3 May 2018.
