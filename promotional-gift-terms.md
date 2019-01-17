@@ -34,7 +34,7 @@
 
     2.9 We reserve the right to vary or discontinue the Promotional Gift code scheme at any time.
 
-    2.10 Each Promotional Gift Code will be valid for the first 100 users or until the stated expiry date of each code, where stated, or otherwise for a period of six months from the original date of issue, whichever of the above shall come first. 
+    2.10 Each Promotional Gift Code will be valid for the first 100 users or until the stated expiry date of each code where stated, or for a period of six months from the original date of issue where expiry date is not stated, or while stocks last, whichever of the above shall come first.
 
 3. Our Right To Vary These Terms And Conditions
 
