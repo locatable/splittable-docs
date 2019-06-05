@@ -64,9 +64,9 @@ We reserve the right to alter or replace them, or require you to do so, at any t
 
 ### Using the App and making payments
 
-Members can add details of payments they or other House members have already made or will make in the future. Costs can be classified in a number of different categories including, for example, Food & Groceries, Utilities, and/or Rent and different members of the House can be listed as the party responsible for managing each payment. You can view details of the House's payment history as well as upcoming payments using functionality we make available in the App.
+Members can add details of payments they or other House members have already made or will make in the future. Costs can be classified in a number of different categories including, for example, Food & Groceries, Utilities, or Rent, and different members of the House can be listed as the party responsible for managing each payment. You can view details of the House's payment history as well as upcoming payments using functionality we make available in the App.
 
-The App allows members to record payments that have been made to House members offline. You can also make payments directly to other House members using the App.
+The App allows members to record payments that have been made to House members offline. When eligible, you can also make payments directly to other House members using the App.
 
 In order to make and receive payments to and from another House member or make a payment to a Service Provider you sign up for, as set out in the [Utility Services section](#utility-services) below, you and they will need to provide the following information:
 
@@ -85,7 +85,7 @@ We reserve the right, in our discretion, to carry out checks (including checks w
 
 You should be aware that online payment transactions are subject to validation checks by your card issuer and we are not responsible if your card issuer declines to authorise payment for any reason. Please note it is possible that your card issuer may charge you an online handling fee or processing fee. We are not responsible for this.
 
-Payments made on the App are made through our payment gateway provider, MangoPay. You will be providing credit or debit card and bank account information directly to MangoPay which operates a secure server to process payment details, encrypting your credit/debit card information and authorising payment. Information which you supply to MangoPay is not within our control and is subject to MangoPay's own privacy policy and terms and conditions available on [their website](https://www.mangopay.com/terms/end-user-terms-and-conditions/Mangopay_Terms-EN.pdf).. By registering to make payment directly to other House members using the App you confirm that you accept and agree to be bound by MangoPay's terms and acknowledge that they constitute a legally binding contract between MangoPay and you.
+Payments made on the App are made through our payment gateway provider, MangoPay. Payments can be made using Direct Debit or a credit/debit card. When using credit/debit card, you will be providing card information directly to MangoPay which operates a secure server to process payment details, encrypting your credit/debit card information and authorising payment. Information which you supply to MangoPay is not within our control and is subject to MangoPay's own privacy policy and terms and conditions available on [their website](https://www.mangopay.com/terms/end-user-terms-and-conditions/Mangopay_Terms-EN.pdf). By registering to make payment either to service providers or to other House members using the App, you confirm that you accept and agree to be bound by MangoPay's terms and acknowledge that they constitute a legally binding contract between MangoPay and you.
 
 For the avoidance of doubt, deletion of the App does not affect or prejudice your obligations arising under this EULA or in relation to any Utility Service you sign up for through the App including (without limitation) your obligation to pay for a Utility Service.
 
@@ -147,7 +147,9 @@ Payment for the Utility Service is managed through the App, using our payment pr
 
 Charges for the Utility Service shall be split equally between the House members, unless otherwise agreed. Each House member will receive an individual invoice for the Utility Service on the first business day of the Billing Cycle (each an **Invoice**). A "business day" is a day other than Saturday or Sunday or a public holiday in England. The Invoice is viewable in the app. Each Invoice will contain details of the date that payment is due (**Due Date**).
 
-Each Invoice will contain details of the date that payment is due (**Due Date**). If there are sufficient funds in each House member's wallet, the Invoices for the Utility Service shall be automatically settled on the Due Date.
+When the Invoice becomes due, we will attempt to charge each individual automatically, using an active Direct Debit mandate or bank card, as available.
+All House members will be sent a billing summary to the email address provided during sign up, outlining any success or failure to collect funds.
+If there are sufficient funds in each House member's wallet, the Invoices for the Utility Service shall be automatically settled on the Due Date.
 
 #### Joint and Several Liability
 
@@ -168,15 +170,15 @@ If for any reason we cannot collect any amount which is outstanding from the rem
 
 | Day | Action | Description |
 | --- | ------ | ----------- |
-| 1-3 | House members can make early payments | Payments can be made early. |
-| 3   | acasa initiates payment of invoices | acasa initiates payment of Invoice from House member's cards. |
-| 3   | House member[s] fails to pay on Due Date | Payment attempted multiple times throughout the day if initally fail. |
-| 3   | House member[s] and rest of House alerted of failure to pay. | acasa notifies both the House member and rest of the House explaining failure to pay, requesting payment by Day 5 and explaining outstanding amount will be taken from remaining House members if not received. |
-| 5   | acasa initiates payment of outstanding invoices | Payments which weren’t made on Day 3 are reattempted on Day 5 |
-| 5   | House member[s] fails again to pay | acasa informs entire House that outstanding amount will be taken from other House member's wallets in 2 days time. |
-| 5-7 | All House members can make early payments | Prior to the payments on day 7, the payment shares can be altered and paid early. |
-| 7   | acasa initiates payment of remaining invoices | Payments split between remaining House members to pay all invoices. |
-| 8   | If Invoice[s] remain unpaid, the debt shall be passed to the Service Provider | If the Invoice[s] for the House remains unpaid following completion of the above steps, then the Service Provider will collect the debt in accordance with its internal process. |
+| 1-3 | House members can pay early | Payments can be proactively by members through the App, in advance of the Invoice being due. |
+| 3   | acasa initiates payment of invoices | acasa initiates payment of Invoice from House member's Direct Debit or bank card, as available. |
+| 3   | House member(s) fails to pay on Due Date | The attempted charges are unsuccessful, for example due to lack of funds in account, bank card or Direct Debit Mandate problems or payment otherwise blocked by bank |
+| 3   | House member(s) and rest of House alerted of failure to pay. | acasa notifies both the House member and rest of the House explaining failure to pay, requesting payment by Day 5 and explaining outstanding amount will be taken from remaining House members if not received. |
+| 5   | acasa initiates payment of outstanding invoices | Payments which weren't made on Day 3 are reattempted on Day 5 |
+| 5   | House member(s) fails again to pay | acasa informs entire House that outstanding amount will be taken from other House member's wallets in 2 days time. |
+| 5-7 | All House members can make payment to cover outstanding share | Prior to the payments on day 7, the payment shares can be adjusted and paid early by any House member. |
+| 7   | acasa allocates and initiates payment of remaining invoices | Payments split between any House members with valid payment methods, in order to pay all invoices. |
+| 8   | If Invoice(s) remain unpaid, the debt shall be passed to the Service Provider | If the Invoice(s) for the House remains unpaid following completion of the above steps, then the Service Provider will collect the debt in accordance with its internal process. |
 
 #### Reconciliation
 
