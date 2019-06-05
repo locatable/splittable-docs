@@ -6,8 +6,7 @@ These terms and conditions also apply to any of the services accessible through 
 
 The App is provided by Locatable Limited (we, us and our). We are a limited company, registered in England. Our registered company number is 08616210, and our registered office is at Stapleton House, Block A, 2nd Floor, 110 Clifton Street, London, EC2A 4HT. Our VAT registration number is 232 3946 15.
 
-**BY DOWNLOADING, ACCESSING AND/OR USING THE APP, YOU CONFIRM THAT YOU ACCEPT AND AGREE TO BE BOUND BY THESE TERMS AND ACKNOWLEDGE THAT THEY CONSTITUTE A LEGALLY BINDING CONTRACT BETWEEN US AND YOU. IF YOU DO NOT AGREE TO ALL OF THESE TERMS, YOU ARE NOT PERMITTED TO ACCESS OR USE THE APP, AND YOU SHOULD NOT CLICK TO ACCEPT THESE TERMS AND YOU SHOULD NOT PROCEED FURTHER.
-**
+**BY DOWNLOADING, ACCESSING AND/OR USING THE APP, YOU CONFIRM THAT YOU ACCEPT AND AGREE TO BE BOUND BY THESE TERMS AND ACKNOWLEDGE THAT THEY CONSTITUTE A LEGALLY BINDING CONTRACT BETWEEN US AND YOU. IF YOU DO NOT AGREE TO ALL OF THESE TERMS, YOU ARE NOT PERMITTED TO ACCESS OR USE THE APP, AND YOU SHOULD NOT CLICK TO ACCEPT THESE TERMS AND YOU SHOULD NOT PROCEED FURTHER.**
 
 We reserve the right to change the terms of this EULA from time to time by notifying you (with the updated terms being displayed on-screen or with a link to the updated terms) when you next start the App.
 
@@ -43,7 +42,6 @@ Setting up a new House is easy. You will be asked to enter the House name or add
 
 Once your House is set up, you can invite people you live with you to join either from your contacts list or by entering their details manually.
 
-
 #### Joining an existing House
 
 If you have been invited to join a House you will receive an invite code by SMS or email, which you can enter to join the House once you've downloaded the App.
@@ -54,10 +52,9 @@ To register on the App you must be at least 18 years of age or any older age leg
 
 To register you must provide us with accurate, complete and up-to date contact information, including your name, telephone number, address and email address. You are responsible for the information you provide to us. You must promptly update your account information in the event of any changes to this information.
 
-By registering on the App, you warrant that you have obtained all required consent (if any) that may be required and/or necessary in order for us to provide the App to you including (without limitation) obtaining any permissions as may be required from your landlord. 
+By registering on the App, you warrant that you have obtained all required consent (if any) that may be required and/or necessary in order for us to provide the App to you including (without limitation) obtaining any permissions as may be required from your landlord.
 
 Registration is subject to approval by us in all cases, and we reserve the right, in our sole and absolute discretion, to decline any application for registration, without giving a reason.
-
 
 #### Passwords
 
@@ -106,7 +103,7 @@ As your agent, you authorise us to:
 - receive bills and correspondence from the Service Providers;
 - access information about your House account with the Service Provider;
 - manage and make changes to your House account's payment plan with the Service Provider;
-- inform the Service Provider where the relationship between you and acasa comes to an end and/or your leave the House to  which the Utility Service is provided; and
+- inform the Service Provider where the relationship between you and acasa comes to an end and/or your leave the House to which the Utility Service is provided; and
 - to take any other reasonable actions as may reasonably be required in order ensure the Utility Service is provided to the House.
 
 acasa will be a named contact and/or agent on your House account with the Service Provider so we can liaise with the Service Provider on your behalf.
@@ -119,12 +116,12 @@ When signing up you:
 
 - must provide and/or confirm your details and those of your House;
 - will be presented with tariff details and the estimated cost for the Utility Service;
-must review and confirm your acceptance of the Service Provider's terms and conditions for the Utility Service (**Utility Terms**); and
+- must review and confirm your acceptance of the Service Provider's terms and conditions for the Utility Service (**Utility Terms**); and
 - must review and confirm your acceptance of these acasa terms and conditions.
 
-You may check and correct any input errors in your order up until the point at which you submit your order to us by clicking the "Sign up for acasa Utilities" button.
+You may check and correct any input errors in your order up until the point at which you submit your order to us by clicking the confirmation button on the checkout page.
 
-After placing an order, you will receive an acknowledgment from us that we have received your order. Please note that this does not mean that your order has been accepted. Your order constitutes an offer to purchase the ordered Utility Service from the Service Provider. All orders are subject to acceptance by the Service Provider. The Service Provider is not obliged to accept your order and may, at its discretion, decline to accept any order for any reason. You do, however, acknowledge that by clicking on the "Sign up for acasa Utilities" button, you enter into an obligation to pay for the Utility Service.
+After placing an order, you will receive an acknowledgment from us that we have received your order. Please note that this does not mean that your order has been accepted. Your order constitutes an offer to purchase the ordered Utility Service from the Service Provider. All orders are subject to acceptance by the Service Provider. The Service Provider is not obliged to accept your order and may, at its discretion, decline to accept any order for any reason. You do, however, acknowledge that by clicking on the confirmation button on the checkout page, you enter into an obligation to pay for the Utility Service.
 
 Where your order is accepted, the Service Provider will confirm such acceptance by sending you a confirmation of your order (**Order Confirmation**). The contract between you and the Service Provider will only be formed when they send you the Order Confirmation.
 
@@ -133,7 +130,6 @@ The Order Confirmation will contain details of:
 - your 'cooling off period' and cancellation rights;
 - the billing cycle for the Utility Service (i.e. once a month/quarter) (Billing Cycle); and
 - any other information, including a full copy of their terms and conditions, relating to the Utility Service provided by the Service Provider.
-
 
 #### Meter Readings
 
@@ -145,18 +141,19 @@ Where applicable, you shall obtain regular meter readings relating to the Utilit
 - Signing up for a Utility Service on the App does not prevent you from switching to another Service Provider at any time, however, if you do so you may become ineligible for some or all services available under the App; and
 - When you sign-up for a Utility Service you must provide us with the full postal address of your property and the total number of occupants and bedrooms in your property. We will provide you with a projection of your predicted costs for the Utility Service based on the Utility Service tariff and the estimated annual consumption rate issued by Ofgem for properties of your size. The Service Provider will then provide you with the relevant Tariff Information Label and Tariff Comparison Rate in due course.
 
-
 ### Payment for Utility Services
 
 Payment for the Utility Service is managed through the App, using our payment provider MangoPay.
 
-Charges for the Utility Service shall be split equally between the House members, unless otherwise agreed. Each House member will receive an individual invoice for the Utility Service on the first business day of the Billing Cycle (each an **Invoice**). A "business day" is a day other than Saturday or Sunday or a public holiday in England. Invoice will be emailed to the email address you provide during sign up.
+Charges for the Utility Service shall be split equally between the House members, unless otherwise agreed. Each House member will receive an individual invoice for the Utility Service on the first business day of the Billing Cycle (each an **Invoice**). A "business day" is a day other than Saturday or Sunday or a public holiday in England. The Invoice is viewable in the app. Each Invoice will contain details of the date that payment is due (**Due Date**).
 
 Each Invoice will contain details of the date that payment is due (**Due Date**). If there are sufficient funds in each House member's wallet, the Invoices for the Utility Service shall be automatically settled on the Due Date.
 
 #### Joint and Several Liability
 
-The House members are jointly and severally liable for Utility Service debts of the House. That means that in the event that a House member(s)'s wallet contains insufficient funds to pay for the Utility Service on a Due Date, the other House members shall be equally liable to pay the difference. For example:
+The House members are jointly and severally liable for Utility Service debts of the House.
+That means that in the event that a House member(s)'s bank account contains insufficient funds to pay for the Utility Service on a Due Date, or the payment charge fails for any other reason (such as rejection by the bank), the other House members shall be equally liable to pay the outstanding amount.
+For example:
 a Utility Service bill is £18;
 
 - there are three House members, so the bill comes to £6 each;
@@ -165,7 +162,7 @@ a Utility Service bill is £18;
 
 The App will automatically record details of any payments for Utility Services made by House members on behalf of other House members from time to time, so that the debt is visible and/or reconciled against the existing payment history of the House members.
 
-If for any reason we cannot collect any amount which is outstanding from the remaining House members, the Service Provider may then pursue the lead House member for payment in accordance with its terms and conditions. For further details of the action which may be taken against any specific House member please refer to the relevant terms and conditions of the Service Provider. In such an event, acasa reserves the right to remove our name as a contact on your House account with that Service Provider and to stop providing you with our services. 
+If for any reason we cannot collect any amount which is outstanding from the remaining House members, the Service Provider may then pursue the lead House member for payment in accordance with its terms and conditions. For further details of the action which may be taken against any specific House member please refer to the relevant terms and conditions of the Service Provider. In such an event, acasa reserves the right to remove our name as a contact on your House account with that Service Provider and to stop providing you with our services.
 
 ### Payment Collection Process
 
@@ -183,56 +180,59 @@ If for any reason we cannot collect any amount which is outstanding from the rem
 
 #### Reconciliation
 
-Where an invoice for Utility Services is based on estimated usage for the Billing Cycle, there may be occasions where the House has paid too much or too little for the Utility Service. This will be automatically reconciled in the invoice(s) for the following Billing Cycle. House members shall send regular [Meter Readings](#meter-readings) where available and applicable.
+Where an invoice for Utility Services is based on estimated usage for the Billing Cycle, there may be occasions where the House has paid too much or too little for the Utility Service. This will be automatically reconciled in the invoice(s) for the following Billing Cycle(s). House members shall send regular [Meter Readings](#meter-readings) where available and applicable.
 
 If there is a positive balance in your House account when it is closed for any reason, this balance will be paid out and refunded to the House members in the proportions in which they were paid.
 
 ### TV Licence
 
-acasa offers a service where House member can choose to purchase their [TV Licence](http://www.tvlicensing.co.uk/) through the App.
+acasa offers a service where House member can choose to purchase their [TV Licence](https://www.tvlicensing.co.uk/) through the App.
 
-The contract for the TV Licence is between you and TV Licensing who act for and on behalf of the BBC ("TV Licensing"). asaca are not a party to the contract and only act on your behalf to purchase the TV Licence . asaca is not responsible for the provision of any television service or your purchase of the TV Licence is sufficient for your use. If you have any questions or concerns about the provision of the TV Licence you should raise these directly with TV Licensing.
+The contract for the TV Licence is between you and TV Licensing who act for and on behalf of the BBC ("TV Licensing"). acasa are not a party to the contract and only act on your behalf to purchase the TV Licence. acasa is not responsible for the provision of any television service or your purchase of the TV Licence is sufficient for your use. If you have any questions or concerns about the provision of the TV Licence you should raise these directly with TV Licensing.
 
-If you choose to purchase your TV Licence on the App, you appoint us as your agent to conclude and enter into the contract with TV Licensing on your behalf. That means you authorise asaca to sign you up directly with TV Licensing to receive your TV Licence . The contract for the TV Licence is between you and TV Licensing and you are responsible for paying all costs associated with the TV Licence. if you do not wish for us to purchase the TV Licence on your behalf you should not proceed with the sign up steps in the App.
+If you choose to purchase your TV Licence on the App, you appoint us as your agent to conclude and enter into the contract with TV Licensing on your behalf. That means you authorise acasa to sign you up directly with TV Licensing to receive your TV Licence. The contract for the TV Licence is between you and TV Licensing and you are responsible for paying all costs associated with the TV Licence. If you do not wish for us to purchase the TV Licence on your behalf, you should not proceed with the sign up steps in the App.
 
+#### Purchasing a TV Licence
 
-#### Purchasing a TV Licence  
+You can purchase your TV Licence by going to the "TV Licence" section of the App or Website and following the on-screen instructions. You acknowledge and agree that by completing the purchase process you have the permission from other House members to make the purchase and that no one in your House has already purchased a TV Licence.
 
-You can purchase your TV Licence by going to the "TV Licence " section of the App or Website and following the on-screen instructions. You acknowledge and agree that by completing the purchase process you have the permission from other House members to make the purchase and that no one in your House has already purchased a TV Licence.
+#### To purchase a TV Licence you must:
 
-#### To purchase a TV Licence  you must :
+- provide the details about your House requested in the purchase process;
+- read, review and confirm your acceptance of TV Licensing [terms and conditions](https://www.tvlicensing.co.uk/check-if-you-need-one/topics/terms-and-conditions-top11) and [privacy policy](https://www.tvlicensing.co.uk/privacy-security-policies) for the TV Licence;
+- review and confirm your acceptance of these acasa terms and conditions;
+- pay and arrange for each House member to (in total) pay the full cost of the TV Licence.
 
-provide the details about your House requested in the purchase process; read review and confirm your acceptance of TV Licensing [terms and conditions](http://www.tvlicensing.co.uk/check-if-you-need-one/topics/terms-and-conditions-top11) and [privacy policy](http://www.tvlicensing.co.uk/privacy-security-policies) for the TV Licence; must review and confirm your acceptance of these acasa terms and conditions; pay and arrange for each House member to pay into their e-wallet the total cost of the TV Licence.
+You may check and correct any errors in your purchase up until the point at which you submit your purchase request. You submit your purchase request by clicking confirmation button on the checkout page.
 
-You may check and correct any errors in your purchase up until the point at which you submit your purchase request. You submit your purchase request by clicking the "purchase now" button.
+We will only purchase the TV Licence once we have received full payment of the first monthly TV Licence payment, whether from you directly or from each House member in the agreed proportions. Until the first Invoice is fully settled for the TV Licence, we will not purchase the TV Licence on behalf of the House. If we don't receive full payment within 10 days of you completing the purchase process and clicking on the confirmation button on the checkout page, we will discontinue your purchase and notify you of the same, and any monies paid in part by you or any House member will be returned to you/relevant House member.
 
-We will only purchase the TV Licence once we have received full payment of the TV Licence whether from you directly or from each House member in the agreed proportions. Until we receive the full fee for the TV Licence , we will not purchase the TV Licence on behalf of the House, and if we don’t receive the full license fee within 10 days of you completing the purchase process and clicking on the "purchase now" button we will discontinue your purchase and notify you of the same. Any monies in your or each House member's e-wallet will be returned to you/relevant House member.
-
-Once we have received the full TV Licence fee we will, without further reference to you, purchase of the TV Licence.
+Once we have received the first Invoice amount we will, without further reference to you, purchase the TV Licence.
 
 Once we have purchase the TV Licence you will receive notification directly from TV Licensing that the TV Licence have been purchased and we will transfer the monies from your e-wallet for payment.
 
+#### Cancelling your TV Licence
 
-#### Cancelling your TV Licence  
+You may cancel your TV Licence at any time by directly [contacting TV Licensing](https://www.tvlicensing.co.uk/check-if-you-need-one/refunds-and-cancellations/apply-for-a-refund). If you do so, please inform us so we can adjust your payment schedule.
 
-You may cancel your TV Licence at any time by contacting TV Licensing [directly](http://www.tvlicensing.co.uk/check-if-you-need-one/refunds-and-cancellations/apply-for-a-refund)..
-
-If you choose, we may also assist you with cancelling your TV Licence . If you have not purchased your TV Licence through the App we will not cancel the TV Licence for you and will decline your cancellation request.
+If you choose, we may also assist you with cancelling your TV Licence. If you have not purchased your TV Licence through the App, we will not cancel the TV Licence for you and will decline your cancellation request.
 
 If you have purchased your TV Licence through the App and you wish us to assist with the cancellation, you must:
-complete the cancellation details requested in the cancellation process; Send copies by in app chat or email to support@helloacasa.com, copies of the documentation requested by us as part of the cancellation process.
 
-You may check and correct any errors in your cancellation up until the point at which you submit your cancellation request. You submit your cancellation request by email or in app chat.
+- complete the cancellation details requested in the cancellation process and
+- send through in-app chat or email to support@helloacasa.com, copies of the documentation requested by us as part of the cancellation process.
 
-By clicking on the "cancel now" button you acknowledge and agree that you have the authority of all the House members to cancel the TV Licence and further you confirm that the House no longer needs a TV Licence . We will have no liability to you if you cancel the TV Licence when a TV Licence is still required. If you are not sure whether to cancel the TV Licence please refer to the [TV Licensing website](http://www.tvlicensing.co.uk/).
+You may check and correct any errors in your cancellation up until the point at which you submit your cancellation request. You submit your cancellation request by email or in-app chat.
+
+By confirming cancellation of your TV Licence, you acknowledge and agree that you have the authority of all the House members to cancel the TV Licence and further you confirm that the House no longer needs a TV Licence. We will have no liability to you if you cancel the TV Licence when a TV Licence is still required. If you are not sure whether to cancel the TV Licence please refer to the [TV Licensing website](https://www.tvlicensing.co.uk/).
 
 It is your responsibility to ensure that the documentation you provide us is accurate and up-to-date. We will not review this documentation and will not be liable to you if the cancellation of your TV Licence is delayed or declined as a result of the documentation you provide.
 
-If you do not provide the requested documentation within 48 hours of your cancellation request we will discontinue your cancellation request and notify you of the same.
+If you do not provide the requested documentation within 48 hours of your cancellation request we reserve the right to discontinue your cancellation request and notify you of the same.
 
-Once we have received the cancellation request together with the relevant documents, we will within 96 hours of receipt submit the cancellation request. Any refunded monies received from TV Licensing will be repaid to you and, where relevant, the House members in the proportions in which we received the payment for the TV Licence .
+Once we have received the cancellation request together with the relevant documents, we will within 96 hours of receipt submit the cancellation request. Any refunded monies received from TV Licensing will be repaid to you and, where relevant, the House members in the proportions in which we received the payment for the TV Licence.
 
-We will not be liable to do for any failure to cancel the TV Licence due to the provision by you of any inaccurate information or documentation or failure by you to provide the documentation requested.
+We will not be liable for any failure to cancel the TV Licence due to the provision by you of any inaccurate information or documentation or failure by you to provide the documentation requested in a timely manner.
 
 ### Access to the App
 
@@ -250,21 +250,15 @@ You may only use the App for non-commercial, personal use and only in accordance
 
 Subject to the following sections, you may retrieve and display content from the App on a computer or mobile device and store the App in electronic form incidentally in the normal course of use of your browser or mobile device. Additional terms may also apply to certain features, parts or content of the App and, where they apply, will be displayed on-screen or accessible via a link.
 
-
 ### What you are not allowed to do
 
 Except to the extent expressly set out in this EULA, you are not allowed to:
 
 - republish, redistribute or re-transmit the App;
-
 - copy or store the App other than for your use as permitted by these terms and conditions and as may occur incidentally in the normal course of use of your browser or mobile device;
-
 - store the App on a server or other storage device connected to a network or create a database by systematically downloading and storing any data other than Member Content from the App;
-
 - remove or change any content of the App other than Member Content or attempt to circumvent security or interfere with the proper working of the App or any servers on which it is hosted;
-
 - use the App in a way that might damage our name or reputation or that of any of our affiliates; or
-
 - otherwise do anything that it is not expressly permitted by this EULA.
 
 All rights granted to you under this EULA will terminate immediately in the event that you are in breach of any of them.
@@ -277,7 +271,7 @@ We license, but do not sell, to you the App you download. We remain the owners o
 
 All intellectual property rights in the App and in any content of the App (including text, graphics, software, photographs and other images, videos, sound, trade marks and logos), other than Member Content, are owned by us or our licensors. Except as expressly set out here, nothing in this EULA gives you any rights in respect of any intellectual property owned by us or our licensors and you acknowledge that you do not acquire any ownership rights by downloading the App or any content from the App.
 
-The App may contain code, commonly referred to as open source software, which is distributed under any of the many known variations of open source licence terms, including terms which allow the free distribution and modification of the relevant software’s source code and/or which require all distributors to make such source code freely available upon request, including any contributions or modifications made by such distributor (collectively, **Open Source Software**). Please note that, to the extent that the App contains any Open Source Software, that element only is licensed to you under the relevant licence terms of the applicable third party licensor (**Open Source Licence** Terms) and not under this EULA, and you accept and agree to be bound by such Open Source Licence Terms. A copy of the source code for any Open Source Software contained in the App and the relevant Open Source Licence Terms will be made available to you upon request.
+The App may contain code, commonly referred to as open source software, which is distributed under any of the many known variations of open source licence terms, including terms which allow the free distribution and modification of the relevant software's source code and/or which require all distributors to make such source code freely available upon request, including any contributions or modifications made by such distributor (collectively, **Open Source Software**). Please note that, to the extent that the App contains any Open Source Software, that element only is licensed to you under the relevant licence terms of the applicable third party licensor (**Open Source Licence** Terms) and not under this EULA, and you accept and agree to be bound by such Open Source Licence Terms. A copy of the source code for any Open Source Software contained in the App and the relevant Open Source Licence Terms will be made available to you upon request.
 
 ### Member content
 
@@ -286,11 +280,8 @@ The App allows you to submit member-generated content (**Member Content**) and m
 If you submit any Member Content, you must:
 
 - keep it relevant to the purpose of the Member Content Area to which you submit it and the nature of any topic;
-
 - not submit any Member Content that is unlawful, threatening, abusive, libellous, pornographic, obscene, vulgar, indecent, offensive or which infringes on the intellectual property rights or other rights of any third party;
-
-- not submit any Member Content that contains any viruses and/or other code that has contaminating or destructive elements; and 
-
+- not submit any Member Content that contains any viruses and/or other code that has contaminating or destructive elements; and
 - not impersonate, or misrepresent an affiliation with, any person or entity.
 
 You agree that, by submitting any Member Content, you grant us and our affiliates a perpetual, irrevocable, worldwide, non-exclusive, royalty-free and fully sub-licensable right and licence to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, perform and display such Member Content (in whole or part) and/or to incorporate it in other works in any form, media or technology, and you waive any moral rights you may have in, or to be identified as the author, of such Member Content.
@@ -330,31 +321,22 @@ The App may, from time to time, include links to external sites, which may inclu
 Nothing in this EULA shall limit or exclude our liability to you:
 
 - for death or personal injury caused by our negligence;
-
 - for fraudulent misrepresentation;
-
 - for breach of any term implied by the Consumer Rights Act 2015 and which, by law, may not be limited or excluded; or
-for any other liability that, by law, may not be limited or excluded.
+- for any other liability that, by law, may not be limited or excluded.
 
 Subject to this, if you are a consumer and not a business user, in no event shall we be liable to you for any business losses , and if you are a business user, in no event shall we be liable to you for any indirect or consequential losses, or for any loss of profit, revenue, contracts, data, goodwill or other similar losses.
 
 You acknowledge and agree that:
 
 - we shall not be responsible for any act or omission of a Service Provider;
-
 - we do not endorse the goods or services made available by a Service Provider;
-
 - we do not warrant or represent that any quotes or tariffs you receive from Service Provider using the App will be cheaper than could be obtained by any other means;
-
 - any information appearing on the App in relation to a given Service Provider (including tariffs and/or estimates) is provided by the Service Provider concerned and is the responsibility of that Service Provider, not us;
-
-- if you choose to purchase a Utility Service from a Service Provider: 
-
+- if you choose to purchase a Utility Service from a Service Provider:
 - that will be on the basis of a contract between you and the Service Provider alone, on the terms agreed between you and the Service Provider; and
-
 - we shall not be a party to that contract and neither shall we be responsible in any way for the performance of that contract by the Service Provider or for the quality or safety of any Utility Services sold by the Service Provider; and
-
-- in the event of a problem with any Utility Service, all billing and payments queries should in the first instance be directed to us by contacting us at  [support@helloacasa.com](mailto:support@helloacasa.com), although we reserve the right to ask you to contact the Service Provider directly should this, in our opinion be necessary, and any technical or service disruption should be directed to the Service Provider concerned.
+- in the event of a problem with any Utility Service, all billing and payments queries should in the first instance be directed to us by contacting us at support@helloacasa.com, although we reserve the right to ask you to contact the Service Provider directly should this, in our opinion be necessary, and any technical or service disruption should be directed to the Service Provider concerned.
 
 We will not be liable or responsible for any failure to perform, or delay in performance of, any of our obligations that is caused by events outside our reasonable control.
 
@@ -384,9 +366,9 @@ Please submit any questions you have about this EULA or any complaint or concern
 
 #### Apple
 
-- If the App that you download, access and/or use runs on Apple’s iOS operating system:
+- If the App that you download, access and/or use runs on Apple's iOS operating system:
 
-- the App may only be accessed and used on a device owned or controlled by you and using Apple’s iOS operating system, and only in accordance with Apple’s usage rules published in its App Store terms of service;
+- the App may only be accessed and used on a device owned or controlled by you and using Apple's iOS operating system, and only in accordance with Apple's usage rules published in its App Store terms of service;
 
 - you acknowledge and agree that:
 
