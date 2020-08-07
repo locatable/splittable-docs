@@ -322,7 +322,7 @@ We cannot and do not guarantee that the App or its content will be free from vir
 
 ### Your personal information
 
-Use of your personal information submitted to us is governed by our [Privacy and Cookies Policy](https://github.com/locatable/splittable-docs/blob/master/privacy-policy.md). Additionally, by using the App, you acknowledge that internet transmissions are never completely private or secure and that it is always possible that any message or information you send using the App may be read or intercepted by others.
+Use of your personal information submitted to us is governed by our [Privacy and Cookies Policy](https://www.helloacasa.com/support/privacy/). Additionally, by using the App, you acknowledge that internet transmissions are never completely private or secure and that it is always possible that any message or information you send using the App may be read or intercepted by others.
 
 ### External links
 
