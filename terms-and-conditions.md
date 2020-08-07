@@ -358,7 +358,7 @@ These terms and conditions and any document expressly referred to in them repres
 
 These terms and conditions shall be governed by English law. You agree that any dispute between you and us regarding them or the App will only be dealt with by the English courts, provided that, if you live in a part of the United Kingdom other than England, the applicable law of that part of the United Kingdom will govern and any dispute will only be dealt with by the courts there. Nothing shall prevent us from bringing proceedings to protect our intellectual property rights before any competent court.
 
-The European Online Dispute Resolution platform](http://ec.europa.eu/consumers/odr/) provides information about alternative dispute resolution which may be of interest.
+The [European Online Dispute Resolution platform](http://ec.europa.eu/consumers/odr/) provides information about alternative dispute resolution which may be of interest.
 
 ### Contacting us
 
