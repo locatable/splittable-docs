@@ -141,6 +141,16 @@ Where applicable, you shall obtain regular meter readings relating to the Utilit
 - Signing up for a Utility Service on the App does not prevent you from switching to another Service Provider at any time, however, if you do so you may become ineligible for some or all services available under the App; and
 - When you sign-up for a Utility Service you must provide us with the full postal address of your property and the total number of occupants and bedrooms in your property. We will provide you with a projection of your predicted costs for the Utility Service based on the Utility Service tariff and the estimated annual consumption rate issued by Ofgem for properties of your size. The Service Provider will then provide you with the relevant Tariff Information Label and Tariff Comparison Rate in due course.
 
+#### Refunds from Suppliers
+
+Where refunds are received by us from the Service Provider (such as for over-payment of consumed services), we will endeavour to pass these onwards to you.
+
+We will divide the total refund amount that we receive equally between currently connected housemates, or else divide it as we deem to be appropriate.
+
+We will inform each housemate via the contact details associated with their account, and provide steps in the Apps to receive the funds. This may require the housemate to add Bank Account details or satisfy the KYC / Identification Document or any other requirements that may be in place.
+
+The necessary details or steps to receive the payment must be completed within 90 days of first notification. After this period, we reserve the right to cancel the refund and any payment due to the housemate will be forfeit.
+
 ### Payment for Utility Services
 
 Payment for the Utility Service is managed through the App, using our payment provider MangoPay.
