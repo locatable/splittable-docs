@@ -103,7 +103,7 @@ As your agent, you authorise us to:
 - receive bills and correspondence from the Service Providers;
 - access information about your House account with the Service Provider;
 - manage and make changes to your House account's payment plan with the Service Provider;
-- inform the Service Provider where the relationship between you and acasa comes to an end and/or your leave the House to which the Utility Service is provided; and
+- inform the Service Provider where the relationship between you and acasa comes to an end and/or you leave the House to which the Utility Service is provided; and
 - to take any other reasonable actions as may reasonably be required in order ensure the Utility Service is provided to the House.
 
 acasa will be a named contact and/or agent on your House account with the Service Provider so we can liaise with the Service Provider on your behalf.
