@@ -176,6 +176,8 @@ The App will automatically record details of any payments for Utility Services m
 
 If for any reason we cannot collect any amount which is outstanding from the remaining House members, the Service Provider may then pursue the lead House member for payment in accordance with its terms and conditions. For further details of the action which may be taken against any specific House member please refer to the relevant terms and conditions of the Service Provider. In such an event, acasa reserves the right to remove our name as a contact on your House account with that Service Provider and to stop providing you with our services.
 
+In any situation in which acasa cannot remove our name from the account, we may pass your details on to a debt collection agency who may add their own charges and fees to recover the debt.
+
 ### Payment Collection Process
 
 | Day | Action | Description |
