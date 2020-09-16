@@ -147,9 +147,9 @@ Where refunds are received by us from the Service Provider (such as for over-pay
 
 We will divide the total refund amount that we receive equally between currently connected housemates, or else divide it as we deem to be appropriate.
 
-We will inform each housemate via the contact details associated with their account, and provide steps in the Apps to receive the funds. This may require the housemate to add Bank Account details or satisfy the KYC / Identification Document or any other requirements that may be in place.
+We will inform each housemate via the steps provided in the Apps to receive the funds. This may require the housemate to add Bank Account details or satisfy the KYC / Identification Document or any other requirements that may be in place.
 
-The necessary details or steps to receive the payment must be completed within 90 days of first notification. After this period, we reserve the right to cancel the refund and any payment due to the housemate will be forfeit.
+The necessary details or steps to receive the payment must be completed within 30 days of the refund being available in the App. After this period, we reserve the right to cancel the refund and any payment due to the housemate will be forfeit.
 
 ### Payment for Utility Services
 
